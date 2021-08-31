@@ -71,7 +71,7 @@ No, in the dormitory pets are not currently allowed. An exception to this are as
 Given our current construction and financial situation, we think this possibility for this are extremely slim.
 {{< /accordion >}}
 {{< accordion "Can I bring my own furniture?" >}}
-For simplicity's sake, all rooms are furnished! You can of course bring your own furniture and we can accomedate special cases. Note, that we make the specialized furniture with an in-house milling machine!
+Every room is rented out furnished with a desk, a wardrobe and a bed. For the first inhabitants, who will move in during the winter semester 2021/22, there is the possibility of bringing your own furniture if you desire to do so. In this case, the basic furniture is handed over to the CA for the duration of the living (in the form of a donation, deposit or free rent, the exact procedure is still to be determined). The furnishing surcharge of € 20 will rest included in the rent. A list will be kept of concerning the intentions of those who bring their own furniture, if they plan on donating them temporarily or long-term. If there is a change of residents, a working group must guarantee that furniture will be available when new people move in. 
 {{< /accordion >}}
 {{< accordion "Do I have to give the project money or a loan to move in?" >}}
 No! Financial support does not have any influence on who can move in. The financial background should not have any effect whether somebody  can be part of this community or not.
