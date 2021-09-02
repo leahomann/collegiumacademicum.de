@@ -25,7 +25,7 @@ Ihr Direktkredit leistet einen Beitrag, jungen Menschen die Erfahrung zu eröffn
 
 Mit Ihrer Unterstützung realisieren wir mit unserem Neubau ein architektonisch innovatives Gebäude, dass durch seine Holzkonstruktion ein Leuchtturm im Bereich des nachhaltigen Bauens wird. Derzeit benötigen wir vor allem Direktkredite für die zwei Altbauten, die wir möglichst ökologisch und kostengünstig sanieren werden, um die ehemalige militärisch genutzten Räume für unser Orientierungsjahr umzubauen. Insbesondere das Laden-Café soll das Leben im Stadtteil Rohrbach bereichern.
 
-Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht uns zu kontaktieren, wenn Sie Fragen haben.
+Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie im Falle von Fragen nicht, uns zu kontaktieren.
 
 ## Aktueller Stand
 
