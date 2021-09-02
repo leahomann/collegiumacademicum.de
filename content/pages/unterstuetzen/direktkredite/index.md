@@ -23,7 +23,7 @@ novoigl: yes
 
 Ihr Direktkredit leistet einen Beitrag, jungen Menschen die Erfahrung zu eröffnen, dass sie verändernd in die Welt eingreifen und somit Wandel in ihre Umgebung tragen können.
 
-Mit Ihrer Unterstützung realisieren wir mit unserem Neubau ein architektonisch innovatives Gebäude, dass durch seine Holzkonstruktion ein Leuchtturm im Bereich des nachhaltigen Bauens wird. Derzeit benötigen wir vor allem Direktkredite für die zwei Altbauten, die wir möglichst ökologisch und kostengünstig Sanieren werden, um die  ehemalige militärische Nutzung in Räume für unser Orientierungsjahr umzubauen. Insbesondere das Laden-Café soll das Leben im Stadtteil Rohrbach bereichern.
+Mit Ihrer Unterstützung realisieren wir mit unserem Neubau ein architektonisch innovatives Gebäude, dass durch seine Holzkonstruktion ein Leuchtturm im Bereich des nachhaltigen Bauens wird. Derzeit benötigen wir vor allem Direktkredite für die zwei Altbauten, die wir möglichst ökologisch und kostengünstig sanieren werden, um die ehemalige militärisch genutzten Räume für unser Orientierungsjahr umzubauen. Insbesondere das Laden-Café soll das Leben im Stadtteil Rohrbach bereichern.
 
 Wir sind auf Ihre Hilfe angewiesen. Informieren Sie sich und zögern Sie nicht uns zu kontaktieren, wenn Sie Fragen haben.
 
@@ -36,11 +36,11 @@ Projekts gebracht haben und bringen werden.
 
 <progress class="progress is-large is-primary" value="2300" max="2300"></progress>
 
-Für die Finanzierung der Altbauten benötigen wir weiterhin Ihre tatkräftige Unterstützung und sind dankbar, wenn Sie auf diesem Wege an der gemeinschaftlichen Umsetzung des Projekts teilhaben. Insgesamt werden wir derzeitigen Schätzungen zufolge etwa 1,5 Mio. € Direktkredite benötigen.
+Für die Finanzierung der Altbauten benötigen wir weiterhin Ihre tatkräftige Unterstützung und sind dankbar, wenn Sie auf diesem Wege an der gemeinschaftlichen Umsetzung des Projekts teilhaben. Derzeitigen Schätzungen zufolge werden wir insgesamt etwa 1,5 Mio. € Direktkredite benötigen.
 
 <progress class="progress is-large is-primary" value="357" max="1500"></progress>
 
-Daher können  Sie also das CA weiterhin mit Direktkrediten unterstützen. Lesen Sie im Folgenden, warum wir Direktkredite benötigen und was es bedeutet uns einen Direktkredit zu geben.
+Daher können Sie das CA weiterhin mit Direktkrediten unterstützen. Lesen Sie im Folgenden, warum wir Direktkredite benötigen und was es bedeutet, uns einen Direktkredit zu geben.
 
 {{< accordion "Warum sind wir auf Direktkredite angewiesen?" >}}
 Direktkredite sind das Herz und wichtigste Voraussetzung unserer Finanzierung, da sie das Fundament für unsere zwei weiteren Finanzierungsbausteine – Fördermittel und Bankdarlehen – darstellen. Sie dienen der Finanzierung der Planung, sodass wir in Aussicht stehende Fördermittel abrufen können, und bilden unseren Eigenkapitalersatz für ein zukünftiges Bankdarlehen. Direktkredite werden ohne Beteiligung einer Bank direkt geliehen. Dafür schließen Sie einen Vertrag mit unserer Collegium Academicum GmbH ab, in dem festgelegt ist, wann und wie das geliehene Geld wieder zurückgezahlt wird. Mit Ihrem Direktkredit ermöglichen Sie uns, unser Projekt umzusetzen und langfristig günstige Mieten zu sichern.
@@ -48,10 +48,10 @@ Mit einem Direktkredit bei uns haben Sie die Möglichkeit einer sozialen, sinnvo
 {{< /accordion >}}
 
 {{< accordion "Welche Konditionen gibt es?" >}}
-Wir freuen uns über Kredite ab 1.000 Euro (von Studierenden ab 500 Euro). Im Kreditvertrag wird ein Zinssatz zwischen 0 % und 1.50 % vereinbart. Die Mindestlaufzeit der Kredite beträgt zwei Jahre, darüber hinaus gilt eine Kündigungsfrist von sechs Monaten.
+Wir freuen uns über Kredite ab 1.000 Euro (von Studierenden ab 500 Euro). Im Kreditvertrag wird ein Zinssatz zwischen 0 % und 1,50 % vereinbart. Die Mindestlaufzeit der Kredite beträgt zwei Jahre, darüber hinaus gilt eine Kündigungsfrist von sechs Monaten.
 {{< /accordion >}}
 
-{{< accordion "Wie sicher ist es einen Direktkredit zu geben?" >}}
+{{< accordion "Wie sicher ist es, einen Direktkredit zu geben?" >}}
 Richtig ist: Bankübliche Sicherheiten können wir nicht garantieren. Im Falle eines finanziellen Engpasses kann es unter Umständen dazu kommen, dass Direktkredite nicht sofort zurückgezahlt werden können, wenn andernfalls das Projekt zahlungsunfähig würde. In einem solchen Fall müsste vor der Rückzahlung zunächst eine alternative Finanzierung gefunden werden. Sollte es zum Extremfall einer Insolvenz kommen, erhalten zuerst andere Gläubiger, etwa Banken, ihr Geld zurück. Das heißt, dass es im schlimmsten Fall zu einem vollständigen Verlust des von Ihnen angelegten Geldes kommen könnte.
 {{< /accordion >}}
 
